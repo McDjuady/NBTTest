@@ -1,0 +1,8 @@
+name: NBTTest
+author: McDjuady
+main: com.googlemail.mcdjuady.nbttest.NBTTest
+version: 1.0
+depend: [PowerNBT]
+commands:
+    nbttest:
+        description: Test
